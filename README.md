@@ -10,6 +10,7 @@ My work focuses on production functions, resource constraints, and the economics
 
 ### Featured Project
 🔗 **Thesis Project – Adaptation of the GHKT model**  
+Currently refining the model and preparing for publication.
 https://github.com/sofievk/thesis_publication
 
 ### Documents
