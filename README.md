@@ -1,4 +1,4 @@
-# Sofie [Last Name]
+# Sofie Anne van Knippenberg
 
 I am a graduate researcher working on energy transition modeling and integrated assessment models.
 My work focuses on production functions, resource constraints, and the economics of low-carbon energy systems.
