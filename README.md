@@ -3,7 +3,8 @@
 ### Research
 - Integrated Assessment Models (IAMs)
 - Energy transition and resource constraints
-- MATLAB and Python-based modeling
+- Causal analysis and Ecologically Unequal Exchange
+- MATLAB, GAMS, and R-based modeling
 
 ### Featured Project
 🔗 **Thesis Project – Adaptation of the GHKT model**  
@@ -15,5 +16,5 @@ https://github.com/sofievk/thesis_publication
 - 📘 Master’s thesis — *coming soon*
 
 ### Tools
-MATLAB · Python · Jupyter · Git · Conda
+MATLAB · GAMS · Jupyter · Git · R
 
