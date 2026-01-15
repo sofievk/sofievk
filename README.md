@@ -3,7 +3,7 @@
 ### Research
 - Integrated Assessment Models (IAMs)
 - Energy transition and resource constraints
-- Causal analysis
+- Causal Inference and Impact Analysis
 - Ecologically Unequal Exchange
 
 ### Featured Project
