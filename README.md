@@ -3,8 +3,8 @@
 ### Research
 - Integrated Assessment Models (IAMs)
 - Energy transition and resource constraints
-- Causal analysis and Ecologically Unequal Exchange
-- MATLAB, GAMS, and R-based modeling
+- Causal analysis
+- Ecologically Unequal Exchange
 
 ### Featured Project
 🔗 **Thesis Project – Adaptation of the GHKT model**  
