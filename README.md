@@ -1,3 +1,5 @@
+<p style="font-size:14px;">
+
 # Sofie Anne van Knippenberg
 
 ### Research
@@ -18,3 +20,4 @@ https://github.com/sofievk/thesis_publication
 ### Tools
 MATLAB · GAMS · Jupyter · Git · R
 
+</p>
