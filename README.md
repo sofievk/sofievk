@@ -3,13 +3,12 @@
 # Sofie Anne van Knippenberg
 
 ### Research
-- Integrated Assessment Models (IAMs)
 - Energy transition and resource constraints
-- Causal Inference and Impact Evaluation
 - Ecologically Unequal Exchange
+- Food systems transformation
 
 ### Featured Project
-🔗 **Thesis Project – Adaptation of the GHKT model**  
+🔗 **Thesis Project – Adaptation of an environmemtal-economic IAM model**  
 Currently refining the model and preparing for publication.
 https://github.com/sofievk/thesis_publication
 
