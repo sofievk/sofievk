@@ -8,7 +8,7 @@
 - Food systems transformation
 
 ### Featured Project
-🔗 **Thesis Project – Adaptation of an environmemtal-economic IAM model**  
+🔗 **Thesis Project – Adaptation of an environmemtal-economic IAM**  
 Currently refining the model and preparing for publication.
 https://github.com/sofievk/thesis_publication
 
