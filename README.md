@@ -4,6 +4,7 @@
 
 ### Research
 - Energy transition and resource constraints
+- Distributional impacts of climate policy
 - Ecologically Unequal Exchange
 - Food systems transformation
 
