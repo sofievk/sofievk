@@ -3,10 +3,10 @@
 # Sofie Anne van Knippenberg
 
 ### Research
-      <li>Energy and technology in production frameworks </li>
-      <li>Social cost of carbon and optimal climate policy</li>
-      <li>Energy transition and mineral constraints</li>
-      <li>Ecologically Unequal Exchange</li> 
+- Energy and technology in production frameworks 
+- Social cost of carbon and optimal climate policy
+- Energy transition and mineral constraints
+- Ecologically Unequal Exchange
       
 ### Featured Project
 🔗 **Adaptation of an environmemtal-economic IAM**  
