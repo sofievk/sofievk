@@ -18,6 +18,6 @@ https://github.com/sofievk/thesis_publication
 - 📘 Master’s thesis — *coming soon*
 
 ### Tools
-MATLAB · GAMS · Jupyter · Git · R
+MATLAB · GAMS · Jupyter · Git · R · Stata
 
 </p>
