@@ -3,13 +3,13 @@
 # Sofie Anne van Knippenberg
 
 ### Research
-- Energy transition and resource constraints
-- Distributional impacts of climate policy
-- Ecologically Unequal Exchange
-- Food systems transformation
-
+      <li>Energy and technology in production frameworks </li>
+      <li>Social cost of carbon and optimal climate policy</li>
+      <li>Energy transition and mineral constraints</li>
+      <li>Ecologically Unequal Exchange</li> 
+      
 ### Featured Project
-🔗 **Thesis Project – Adaptation of an environmemtal-economic IAM**  
+🔗 **Adaptation of an environmemtal-economic IAM**  
 Currently refining the model and preparing for publication.
 https://github.com/sofievk/thesis_publication
 
